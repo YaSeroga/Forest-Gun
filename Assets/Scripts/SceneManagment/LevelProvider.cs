@@ -1,0 +1,5 @@
+enum LevelProvider
+{
+    None,
+    SceneProvider
+}
