@@ -1,10 +1,10 @@
 ## Table Of Contents
 
   - [Introduction](#introduction)
-  - [How To Use](#how-to-use)
-  	- [Setup scriptable objects](#setup-sctiptable-objects)
+  - [How To Use](#how-to-implement)
+  	- [Setup scriptable objects](#setup-scriptable-objects)
   	- [Setup service class](#setup-service-class)
-  - [Let\`s go deeper](#Let\`s-go-deeper)
+  - [Let\`s go deeper](#Lets-go-deeper)
   	- [Playing tracking](#playing-tracking)
   	- [Stopping clips](#stopping-clips)
   	- [Decorators](#decorators)
